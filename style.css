@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+}
+nav {
+    background-color: #7a7979;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.car {
+    border: 1px solid #000000;
+    padding: 10px;
+    margin: 10px 0;
+}
+a{
+    color: #333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 25px;
+    border: 2px solid;
+    padding: 5px;
+    text-decoration: none;
+}
+img{
+    width: 30%;
+    position: fixed;
+    top: 10rem;
+    font-size: 3rem;
+  font-weight: 900;
+  left: 0px;
+}
